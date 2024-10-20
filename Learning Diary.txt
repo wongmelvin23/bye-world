@@ -1,0 +1,5 @@
+20/10/2024:
+- Created a GitHub repository
+- Created a new "feature" branch
+- Connected local repository with remote repository in GitHub using VS Code CLI
+- Created a sample RESTful API using Spring Boot, which able to display a simple string
